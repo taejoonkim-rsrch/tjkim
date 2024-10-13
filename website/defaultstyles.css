@@ -98,7 +98,8 @@ h1 {
 #page {
 	/* background-color:#eae4d0;
 	*/
-	background-color:#f0f3fa;
+	/* background-color:#f0f3fa; */
+	background-color:#caca95
 	overflow:auto;
 	padding:15px 0;
 	clear: both;
