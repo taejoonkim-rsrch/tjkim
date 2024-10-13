@@ -4,11 +4,11 @@
 a:link, a:visited {
 	text-decoration:none;
 	/* color:#065388; */
-	color:#800000
+	color:#FFC627
 }
 a:hover {
 	/* color:#990000; */
-	color:#7E3743
+	color:#800000
 }
 a.current:link, a.current:visited {
 	color:#111;
