@@ -3,7 +3,8 @@
 
 a:link, a:visited {
 	text-decoration:none;
-	color:#065388;
+	/* color:#065388; */
+	color:#800000
 }
 a:hover {
 	color:#990000;	
